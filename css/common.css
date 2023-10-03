@@ -33,6 +33,7 @@ button {
 }
 
 .gallery-image {
+  max-height: 130px;
   max-width: 100%;
-  height: auto;
+  
 }
